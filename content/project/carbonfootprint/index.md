@@ -8,10 +8,10 @@ date: "2020-10-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/CFP_calculation.ipynb"
+url_pdf: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/Finding_similar_food_items.pdf"
 url_slides: ""
-url_video: ""
+url_data: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/Matvaretabellen%202020%20(xlsx).xlsx"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
