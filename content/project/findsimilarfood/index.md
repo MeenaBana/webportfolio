@@ -12,8 +12,8 @@ image:
   caption: Norwegian Food Items
   focal_point: Smart
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/MeenaBana/food-with-similar-nutrients/blob/main/Similar_food_items.ipynb"
+url_pdf: "https://github.com/MeenaBana/food-with-similar-nutrients/blob/main/Finding_similar_food_items.pdf"
 url_slides: ""
 url_video: ""
 
