@@ -14,8 +14,8 @@ image:
 
 url_code: "https://github.com/MeenaBana/court-time-maximization/blob/main/optimization%20code%20all%20judges.R"
 url_pdf: "https://github.com/MeenaBana/court-time-maximization/blob/main/Maximizing%20Court%20Time%20Utilization.pdf"
-url_data: "https://github.com/MeenaBana/court-time-maximization/blob/main/Case%20Time%20Matrix.xlsx", "https://github.com/MeenaBana/court-time-maximization/blob/main/courttimemaximization_real_data.xlsx"
-url_output: "https://github.com/MeenaBana/court-time-maximization/blob/main/OptimizationSolutionCT.xlsx"
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

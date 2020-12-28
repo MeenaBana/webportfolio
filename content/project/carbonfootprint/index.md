@@ -11,7 +11,7 @@ external_link: ""
 url_code: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/CFP_calculation.ipynb"
 url_pdf: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/Finding_similar_food_items.pdf"
 url_slides: ""
-url_data: "https://github.com/MeenaBana/carbon-footprint-calculation/blob/main/Matvaretabellen%202020%20(xlsx).xlsx"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
