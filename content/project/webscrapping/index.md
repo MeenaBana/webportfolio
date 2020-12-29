@@ -2,7 +2,7 @@
 title: Web scrapping
 summary: Web scrapping of courts data for different states and districts. 
 tags:
-- Academic
+- Work
 date: "2018-03-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

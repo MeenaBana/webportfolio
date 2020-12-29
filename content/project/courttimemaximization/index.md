@@ -2,7 +2,7 @@
 title: Court time maximization
 summary: Using India's various court data and applied linear optimization to find maximum time to reduce the decency of the cases. 
 tags:
-- Academic
+- Work
 date: "2018-05-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
